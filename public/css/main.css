@@ -1,0 +1,7 @@
+.bg{
+    background: url('../img/bg.png');
+}
+.main{
+    background: url('../img//bg-full.png');
+    height: 100vh;
+}
